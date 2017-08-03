@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title> Source 2 Image PHP Demo 2,11</title>
+    <title>Estrategia A </title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">S2I PHP Demo</a>
+          <a class="navbar-brand" href="#">Estrategia version B</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -55,10 +55,7 @@
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
 <<<<<<< HEAD
-        <p class="lead">Source To Image PHP v8</p>
-=======
-<!--        <p class="lead">Felipe Carrasco</p>
->>>>>>> ab004d84a78e67db1b4755dda9f6cafeb26ac1e9 -->
+        <p class="lead">Estrategia Version B</p>
       </div>
 
     </div><!-- /.container -->
