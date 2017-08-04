@@ -56,6 +56,9 @@
         <h1>Hello <?php echo 'Mundo'?></h1>
 <<<<<<< HEAD
         <p class="lead">Estrategia Version B</p>
+	<div>
+		  <img src="images/imagen.jpg" />
+	</div>
       </div>
 
     </div><!-- /.container -->
